@@ -1,3 +1,3 @@
-#NAMA  : TULUS AMRU
-#NIM   : 23146002
+#NAMA  : dimas prasetyo
+#NIM   : 23146043
 #MK    : Information Retrieval
